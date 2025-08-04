@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Web App Smart Jimpitan Recorder with QR Code",
+      "desc": "Sistem pelaporan jimpitan harian berbasis QR code yang memungkinkan petugas hanya perlu scan QR yang ditempel di tiap rumah. Sistem otomatis mencatat waktu, ID rumah, dan nama petugas ke Google Sheets. Terdapat validasi duplikat per hari, auto-input nama, dan tampilan responsif berbasis Web App",
+      "image": "jimpitan",
+      "category": "Web App",
+      "links": {
+        "view": "https://www.linkedin.com/",
+        "code": "https://github.com/mad-sm/"
+      }
+    },
+    {
+        "name": "Aplikasi Perhitungan Keekonomian Migas",
+        "desc": "Aplikasi ini digunakan untuk melakukan perhitungan keekonomian lapangan minyak dan gas bumi, seperti estimasi produksi, pendapatan, biaya operasional, pajak, hingga net cash flow (NCF) selama umur proyek.",
+        "image": "NCF",
+        "category": "Web App",
+        "links": {
+          "view": "https://www.linkedin.com/",
+          "code": "https://github.com/mad-sm/"
+        }
+      }
+  ]
+  
